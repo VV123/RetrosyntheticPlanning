@@ -1,2 +1,2 @@
-# RetrosyntheticPlanning
-Retrosynthesis Planning 
+# Retrosynthetic Planning
+
